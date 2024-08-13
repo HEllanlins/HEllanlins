@@ -1,13 +1,13 @@
 name: Gerar Dados
 
 on:
-  schedule: # executar a cada 12 horas
+  schedule:
     - cron: "0 2 * * 1-5"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Trabalhos para atualizar dados
+    name: Trabalho-para-atualizar-dados
     runs-on: ubuntu-latest
     steps:
       # Animação de Serpente
