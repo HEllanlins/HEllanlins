@@ -1,16 +1,26 @@
-### Olá meu nome é Hellan, seja bem vindo ao meu perfil.
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Hellan!;" />
+</h1>
 
-- 🔥 Hoje estudo ads(Análise e desenvolvimento de Sistemas)
-- ♟️ Estou cursando: Javascript, Hardwares, Desenvolvimento de sistemas em várias linguas entre outros cursos.
-- ♟️ Cursos já feitos: LGPD, Operador de micro, Big_Data e Análise de dados em linguagem R.
+<div  align="center" >
+  - 🔭 Atualmente estudo ads(Análise e desenvolvimento de sistemas).
+  <br>
+  - ♟️ Cursos já feitos: LGPD, Operador de micro, Big_Data e Análise de dados em linguagem R.
+  <br>
+  - 🌱 Estou cursando: Javascript, Hardwares, Desenvolvimento de sistemas em várias linguas entre outros cursos.
+</div>
 
-<div>
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center">
   <a href="https://github.com/HEllanlins">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEllanlins&theme=aura&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEllanlins&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+
+<div align="center" style="display: inline_block"><br>
   <img aling="center" alt="Hellan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img aling="center" alt="Hellan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img aling="center" alt="Hellan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -30,4 +40,7 @@
   <a href="https://www.instagram.com/hellan_lins/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instragram&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/HEllanlins/HEllanlins/blob/output/github-contribution-grid-snake2.svg)
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
