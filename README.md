@@ -10,14 +10,6 @@
   - 🌱 Estou cursando: Javascript, Hardwares, Desenvolvimento de sistemas em várias linguas entre outros cursos.
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/HEllanlins">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEllanlins&theme=aura&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEllanlins&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
-
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 <div align="center" style="display: inline_block"><br>
@@ -35,6 +27,15 @@
 
 ##
 
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/HEllanlins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEllanlins&theme=aura&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEllanlins&layout=compact&langs_count=16&theme=vue-dark"/>
+</div>
+
+<br>
 <div>
   <a href="https://www.youtube.com/@hellanlins3042" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/hellan_lins/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instragram&logoColor=white" target="_blank"></a>
