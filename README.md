@@ -30,4 +30,4 @@
   <a href="https://www.instagram.com/hellan_lins/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instragram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/HEllanlins/HEllanlins/blob/output/github-contribution-grid-snake.sgv)
+![snake gif](https://github.com/HEllanlins/HEllanlins/blob/output/github-contribution-grid-snake.svg)
