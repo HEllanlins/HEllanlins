@@ -3,11 +3,11 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estudo ads(Análise e desenvolvimento de sistemas).
+  - 🔭 Atualmente estudo ADS(Análise e desenvolvimento de sistemas).
   <br>
-  - ♟️ Cursos já feitos: LGPD, Operador de micro, Big_Data e Análise de dados em linguagem R.
+  - ♟️ Cursos já feitos: LGPD, Operador de micro, Big_Data, Análise de dados em linguagem R, HTML5, HTML5 e CSS3, Inglês, Java, Git e GitHub, Rede de Computadores e Hardware.
   <br>
-  - 🌱 Estou cursando: Javascript, Hardwares, Desenvolvimento de sistemas em várias linguas entre outros cursos.
+  - 🌱 Estou cursando: Javascript, Desenvolvimento de sistemas em várias linguas, Imersão Alura(Codificação em geral), Javascript e Typescript, ADS e PowerMTA.
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
