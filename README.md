@@ -3,11 +3,15 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estudo ADS(Análise e desenvolvimento de sistemas).
+  - 🔭 Formado em ADS(Análise e desenvolvimento de sistemas).
   <br>
-  - ♟️ Cursos já feitos: LGPD, Operador de micro, Big_Data, Análise de dados em linguagem R, HTML5, HTML5 e CSS3, Inglês, Java, Git e GitHub, Rede de Computadores e Hardware.
+  - 🚀 Fundador da Hynvise.com.
   <br>
-  - 🌱 Estou cursando: Javascript, Desenvolvimento de sistemas em várias linguas, Imersão Alura(Codificação em geral), Javascript e Typescript, ADS e PowerMTA.
+  - 🎲 Atuando na área com a Inove Produção.
+  <br>
+  - ♟️ Cursos: LGPD, Operador de micro, Big_Data, Análise de dados em linguagem R, HTML5, HTML5 e CSS3, Inglês, Java, Git e GitHub, Rede de Computadores, Hardware, ADS(Análise e desenvolvimento de Sistemas).
+  <br>
+  - 🌱 cursando: Desenvolvimento de sistemas com IA.
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
