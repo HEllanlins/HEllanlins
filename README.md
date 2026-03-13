@@ -7,11 +7,11 @@
   <br>
   - 🚀 Fundador da Hynvise.com.
   <br>
-  - 🎲 Atuando na área com a Inove Produção.
+  - 🎲 Atuando em Desenvolvimento com IAs.
   <br>
   - ♟️ Cursos: LGPD, Operador de micro, Big_Data, Análise de dados em linguagem R, HTML5, HTML5 e CSS3, Inglês, Java, Git e GitHub, Rede de Computadores, Hardware, ADS(Análise e desenvolvimento de Sistemas).
   <br>
-  - 🌱 cursando: Desenvolvimento de sistemas com IA.
+  - 🌱 Aplicando: Desenvolvimento de sistemas com IA.
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
